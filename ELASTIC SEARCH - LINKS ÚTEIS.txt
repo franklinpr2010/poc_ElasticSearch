@@ -1,0 +1,7 @@
+https://vuongdang.dev/blog/getting-started-with-spring-data-elasticsearch
+https://reflectoring.io/spring-boot-elasticsearch/
+https://medium.com/elasticsearch/elasticsearch-queries-part-03-term-level-queries-2df2dbbe7477
+
+https://codingexplained.com/coding/elasticsearch/understanding-replication-in-elasticsearch
+https://www.elastic.co/guide/en/elasticsearch/reference/current/term-level-queries.html
+https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-range-query.html
